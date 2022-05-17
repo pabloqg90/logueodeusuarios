@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.5",
+    "express-session": "^1.17.2",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.3.0",
+    "passport": "^0.5.2",
+    "passport-local": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "engines":{
+    "node":"v16.13.0"
+  }
+}
